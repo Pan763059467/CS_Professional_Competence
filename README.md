@@ -1,2 +1,2 @@
 # CS_Professional_Competence
-CS_Professional_Competence
+专业知识
